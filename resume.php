@@ -41,19 +41,46 @@
     </nav>
 
     <div class="container-fluid">
-        <!-- Main content panels -->
         <div class="row">
-            <div class="col-xs-6 col-md-5">
-                <img src="images/my_self.jpg" class="img-rounded img-responsive" alt="Responsive image">
-            </div>
-            <div class="col-xs-6 col-md-5">
+            <div class="col-md-8">
                 <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title"><b>Relevant Experience</b></h3>
+                    </div>
                     <div class="panel-body">
-                        <h1>Hello!</h1></br>
-                        My name is Ron. I am a website developer based out of Wisconsin with a background in CSS, HTML and Java. I have an associate’s degree in Computer Engineering Technology and am a continuing student in Computer Science.</br>
+                        <h4>Student Inter Applications Programmer</h4> As an intern I was tasked with helping the maintenance team fix bugs. Primary languages used were HTML, CSS, Java and some PL/SQL. In adition to programming tasks I also frequently updated Crystal and Jasper reports.
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title"><b>Contact Information</b></h3>
+                    </div>
+                    <div class="panel-body">
+                        <a class="btn btn-block btn-social btn-google" href="https://mail.google.com/mail/?view=cm&fs=1&to=rdelong91@gmail.com&su=SUBJECT&body=BODY" target="_blank">
+                            <span class="fa fa-google"></span> RDeLong91@gmail.com
+                        </a>
+                        <a class="btn btn-block btn-social btn-linkedin" href="https://www.linkedin.com/in/ronald-delong-9395546a" target="_blank">
+                            <span class="fa fa-linkedin"></span> Ron DeLong LinkedIn
+                        </a>
+                        <a class="btn btn-block btn-social btn-reddit" href="https://drive.google.com/open?id=0B-wCmzwwfFufN2Nnd1Z2X3ZrclE" target="_blank">
+                            <span class="fa fa-dropbox"></span> Download Resume
+                        </a>
                         </br>
-                        I’ve been interested in Computer Science since my freshman year of high school where I took some courses in Visual Basic programming. From these meager beginnings I developed an interest in programmatic things. As my exposure to programming grew I gained
-                        a passion for website design because I enjoy the puzzle like nature of piecing together a user interface.
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title"><b>Education</b></h3>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Western Technical College</h4> I graduated from Western Technical College April of 2014 with an associates degree in Computer Engineering Technology.
                     </div>
                 </div>
             </div>
