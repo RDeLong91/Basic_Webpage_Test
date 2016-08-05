@@ -9,6 +9,7 @@
     <link href="css/bootstrap-social.css" rel="stylesheet">
     <link href="css/font-awesome.css" rel="stylesheet">
     <link href="css/docs.css" rel="stylesheet">
+    <link href="css/sticky-footer-navbar.css" rel="stylesheet">
 
 </head>
 
@@ -28,8 +29,27 @@
         </div>
     </nav>
     <div class="container-fluid">
-        <div class="alert alert-danger" role="alert"><b>Please</b> note that this website is under construction at the moment and may not be fully optomized.</div>
+        <div class="alert alert-danger" role="alert">
+            <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+            <span class="sr-only">Error:</span>
+            <b>WARNING</b> This website is under construction at the moment and may not be fully optomized.
+        </div>
+        <div class="progress">
+            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 25%;">
+                25%
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+            </div>
+            <div class="col-md-6">
+                <div class="well well-sm">The progress bar describes the percent this website is at the moment. As time progresses more features will be added making a more robust and user friendly website.</div>
+            </div>
+        </div>
     </div>
+    <!-- This div signifies the end of the container -->
+
+
 
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
