@@ -54,9 +54,8 @@
             <div class="col-md-6">
             </div>
             <div class="col-md-6">
-                <div class="well well-sm">The progress bar describes the percent this website is at the moment. As time progresses more features will be added making a more robust and user friendly website.
-                    </br>
-                    </br>In the meantime please visit the <b>ABOUT</b> section.</div>
+                <div class="well well-sm">The progress bar describes the percent complete this website is at the moment. As time progresses more features will be added making a more robust and user friendly website.
+                </br></br>In the meantime please visit the <b>ABOUT</b> section.</div>
             </div>
         </div>
     </div>
