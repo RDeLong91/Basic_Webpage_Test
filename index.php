@@ -22,8 +22,8 @@
 
             <div class="navbar-header navbar-right">
                 <ul class="nav navbar-nav">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="index.html">About</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="about.php">About</a></li>
                 </ul>
             </div>
         </div>
@@ -43,12 +43,12 @@
             <div class="col-md-6">
             </div>
             <div class="col-md-6">
-                <div class="well well-sm">The progress bar describes the percent this website is at the moment. As time progresses more features will be added making a more robust and user friendly website.</div>
+                <div class="well well-sm">The progress bar describes the percent this website is at the moment. As time progresses more features will be added making a more robust and user friendly website.
+                </br></br>In the meantime please visit the <b>ABOUT</b> section.</div>
             </div>
         </div>
     </div>
     <!-- This div signifies the end of the container -->
-
 
 
     <script src="js/jquery.js"></script>
