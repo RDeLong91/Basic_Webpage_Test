@@ -41,11 +41,11 @@
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <h1>Hello!</h1></br>
-                        My name is Ron and I am website developer with an Associate’s degree in Computer Engineering Technology and continuing my
-                        education in computer science in pursuit of my Bachelor's degree.</br></br>
-                        I've been interested in computer science since my freshman year of high school where I took a Visual Basic programming
-                        class. This was my first experience with use cases and from there I became fascinated with the concept of programming. As
-                        I grew older I found a passion for website design because I truly enjoy the puzzle like nature of building a website UI.
+                        My name is Ron. I am a website developer based out of Wisconsin with a background in CSS, HTML and Java. I have an associate’s
+                        degree in Computer Engineering Technology and am a continuing student in Computer Science.</br></br>
+                        I’ve been interested in Computer Science since my freshman year of high school where I took some courses in Visual Basic
+                        programming. From these meager beginnings I developed an interest in programmatic things. As my exposure to programming
+                        grew I gained a passion for website design because I enjoy the puzzle like nature of piecing together a user interface.
                     </div>
                 </div>
             </div>
