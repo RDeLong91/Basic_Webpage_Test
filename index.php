@@ -47,14 +47,16 @@
             <b>Caution</b> This website is under construction at the moment and may not be fully optomized.
         </div>
         <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 45%;">
-                45%
+            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
+                65%
             </div>
         </div>
         <div class="row">
             <div class="col-md-6">
               <div class="well well-sm">
               <h1>News</h1>
+              The resume page is now fully functioning.
+              </br>
               Today I have been able to add some additional functionality to this website such as responsive deisgn.
               If you are using a desktop web browser press <kbd>F12</kbd> to see what this looks like, if you are on a mobile device
               you are already seeing the responsive design in action.</br></br>
