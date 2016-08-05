@@ -56,7 +56,7 @@
               <div class="well well-sm">
               <h1>News</h1>
               The resume page is now fully functioning.
-              </br>
+            </br></br>
               Today I have been able to add some additional functionality to this website such as responsive deisgn.
               If you are using a desktop web browser press <kbd>F12</kbd> to see what this looks like, if you are on a mobile device
               you are already seeing the responsive design in action.</br></br>
