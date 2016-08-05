@@ -1071,10 +1071,9 @@ img {
 .img-responsive, .thumbnail> img, .thumbnail a> img, .carousel-inner> .item> img, .carousel-inner> .item> a> img {
     display: block;
     max-width: 100%;
-    height: auto;
 }
 .img-rounded {
-    border-radius: 6px;
+    border-radius: 15px;
 }
 .img-thumbnail {
     display: inline-block;
@@ -4803,7 +4802,7 @@ a.list-group-item-danger.active, button.list-group-item-danger.active, a.list-gr
     border-bottom: 1px solid #ddd;
 }
 .panel-default {
-    border-color: #ddd;
+    border-color: #cccccc;
 }
 .panel-default> .panel-heading {
     color: #333;

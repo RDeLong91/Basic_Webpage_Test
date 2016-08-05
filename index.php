@@ -40,19 +40,27 @@
     </nav>
 
     <div class="container-fluid">
-        <div class="alert alert-danger" role="alert">
+        <div class="alert alert-warning" role="alert">
             <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
-            <span class="sr-only">Error:</span>
-            <b>WARNING</b> This website is under construction at the moment and may not be fully optomized.
+            <span class="sr-only">Warning:</span>
+            <b>Caution</b> This website is under construction at the moment and may not be fully optomized.
         </div>
         <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 25%;">
-                25%
+            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 45%;">
+                45%
             </div>
         </div>
         <div class="row">
             <div class="col-md-6">
+              <div class="well well-sm">
+              <h1>News</h1>
+              Today I have been able to add some additional functionality to this website such as responsive deisgn.
+              If you are using a desktop web browser press <kbd>F12</kbd> to see what this looks like, if you are on a mobile device
+              you are already seeing the responsive design in action.</br></br>
+              If you are viewing Developer Mode (you pressed <kbd>F12</kbd>) and are now panicking trying to exit this view,
+              don't worry. Just press <kbd>F12</kbd> again.</br> - Ron
             </div>
+          </div>
             <div class="col-md-6">
                 <div class="well well-sm">The progress bar describes the percent complete this website is at the moment. As time progresses more features will be added making a more robust and user friendly website.
                 </br></br>In the meantime please visit the <b>ABOUT</b> section.</div>

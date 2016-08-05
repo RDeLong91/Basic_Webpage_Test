@@ -43,7 +43,7 @@
         <!-- Main content panels -->
         <div class="row">
             <div class="col-xs-6 col-md-5">
-                <img src="images/my_self.jpg" class="img-responsive" alt="Responsive image">
+                <img src="images/my_self.jpg" class="img-rounded img-responsive" alt="Responsive image">
             </div>
             <div class="col-xs-6 col-md-5">
                 <div class="panel panel-default">
