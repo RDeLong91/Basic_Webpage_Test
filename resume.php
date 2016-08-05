@@ -48,7 +48,7 @@
                         <h3 class="panel-title"><b>Relevant Experience</b></h3>
                     </div>
                     <div class="panel-body">
-                        <h4>Student Inter Applications Programmer</h4> As an intern I was tasked with helping the maintenance team fix bugs. Primary languages used were HTML, CSS, Java and some PL/SQL. In adition to programming tasks I also frequently updated Crystal and Jasper reports.
+                        <h4>Student Intern Applications Programmer</h4> As an intern I was tasked with helping the maintenance team fix bugs. Primary languages used were HTML, CSS, Java and some PL/SQL. In adition to programming tasks I also frequently updated Crystal and Jasper reports.
                     </div>
                 </div>
             </div>
