@@ -50,6 +50,22 @@
                         <h4>Student Intern Applications Programmer</h4> As an intern I was tasked with helping the maintenance team fix bugs. Primary languages used were HTML, CSS, Java and some PL/SQL. In adition to programming tasks I also frequently updated Crystal and Jasper reports.
                     </div>
                 </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title"><b>Education</b></h3>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Western Technical College</h4> I graduated from Western Technical College April of 2014 with an associates degree in Computer Engineering Technology.
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title"><b>Full Resume</b></h3>
+                    </div>
+                    <div class="panel-body">
+                        Please have a look at my completed resume in PDF format via the link on the right.
+                    </div>
+                </div>
             </div>
             <div class="col-md-4">
                 <div class="panel panel-default">
@@ -73,16 +89,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-8">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h3 class="panel-title"><b>Education</b></h3>
-                    </div>
-                    <div class="panel-body">
-                        <h4>Western Technical College</h4> I graduated from Western Technical College April of 2014 with an associates degree in Computer Engineering Technology.
-                    </div>
-                </div>
-            </div>
+
         </div>
     </div>
 
